@@ -39,3 +39,4 @@ bgColor.forEach(item => {
         }
     })
 })
+

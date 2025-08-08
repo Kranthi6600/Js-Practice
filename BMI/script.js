@@ -18,3 +18,4 @@ form.addEventListener('submit', (e) => {
         result.innerHTML = `Your BMI is ${BMI}`;
     }
 })
+
